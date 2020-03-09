@@ -1,0 +1,37 @@
+.hNav {
+border-radius: 2px;
+height: 60px;
+display: flex;
+}
+
+.name {
+    font-size: 60px;
+    display: flex;
+    
+}
+.info {
+    height: 100px
+}
+.intro {
+    
+    color: blue;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+.main{
+    display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+   margin-top: 0;
+}
+.but{
+    width: 100px;
+}
+.profilePic{
+    height: 200px;
+    width: 200px;
+}
